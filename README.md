@@ -14,6 +14,7 @@ Using SQL query, I have prepared a report for Bobby’s manager that identifies 
 
 
 ##Summary:
+
 According to the data, the company has about 9% of employees who are ready to retire and about 0.5% employees with mentorship eligibility. Some additional information that could help the company is to create a table with number of departments what will be affected by the potential retirees as well as a table with titles of employees eligible for retirement. It will help the company prepare a plan to fill positions in the near future. 
 
 
